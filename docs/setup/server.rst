@@ -41,6 +41,11 @@ Run the application.
 You will be able to access the application using ``localhost`` or your
 computer's IP address at port ``5000``.
 
+Setting the Server up as a Service
+----------------------------------
+
+
+
 Running as a Docker Container
 -----------------------------
 
